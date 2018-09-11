@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'pdf/core/text'
 
 RSpec.describe PDF::Core::Text do
   # rubocop: disable RSpec/InstanceVariable
